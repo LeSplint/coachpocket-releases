@@ -1,5 +1,5 @@
 {
   "version": "1.0.2",
-  "apkUrl": "https://coach-pocket--LeSplint.replit.app/v2/apk/coachpocket-v2.apk",
+  "apkUrl": "https://github.com/LeSplint/coachpocket-releases/releases/download/v1.0.2/coachpocket-v2.apk",
   "changelog": "- Correction du téléchargement de la mise à jour sur Android (le fichier s'enregistre maintenant en .apk et non en .zip)"
 }
