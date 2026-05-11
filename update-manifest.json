@@ -1,5 +1,5 @@
 {
-  "version": "1.0.0",
+  "version": "1.0.1",
   "apkUrl": "https://coach-pocket--LeSplint.replit.app/v2/apk/coachpocket-v2.apk",
-  "changelog": "- Voice coach pendant les séances (annonces FR, toggle muet)\n- Retour haptique (vibrations) sur chaque série et fin de repos\n- Machine d'état timer améliorée : countdown 3s avant reprise\n- Remplacement et suppression d'exercice en cours de séance\n- Notes de séance\n- Détection automatique des records personnels (PR)\n- Résumé de séance après validation\n- Timer AMRAP/EMOM intégré\n- Bibliothèque d'exercices avec fiches détaillées\n- Création d'exercices personnalisés\n- Suivi du poids par série (loggé dans l'historique)\n- Durée réelle de séance trackée\n- Stats : badges/achievements, distribution musculaire, section Records\n- Stats : streak inclut maintenant les courses à pied\n- Nutrition : repas récents en accès rapide (pills)\n- Paramètres : avatar emoji dans le profil\n- Profil : historique et réversion des objectifs nutritionnels\n- Objectif hebdomadaire configurable (séances muscu + course)\n- Évaluation physique (pompes, squats, gainage)\n- Corrections de bugs et optimisations de performance"
+  "changelog": "- Correction des rappels d'entraînement sur Android (notifications locales)"
 }
