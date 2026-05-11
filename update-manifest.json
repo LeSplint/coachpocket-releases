@@ -1,5 +1,5 @@
 {
-  "version": 0.1.3",
+  "version": "0.1.3",
   "apkUrl": "https://github.com/LeSplint/coachpocket-releases/releases/download/v0.1.3/coachpocket-v2.apk",
   "changelog": "- Correctif barre de navigation (contenu visible en bas)\n- Correctif téléchargement mise à jour\n- Correctif espacement page Accueil"
 }
