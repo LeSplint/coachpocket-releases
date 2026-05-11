@@ -1,5 +1,5 @@
 {
-  "version": "1.1.1",
-  "apkUrl": "https://github.com/LeSplint/coachpocket-releases/releases/download/v1.1.1/coachpocket-v2.apk",
-  "changelog": "- Test mise à jour automatique v1.1.1\n- Correctif espacement page Accueil"
+  "version": "1.1.2",
+  "apkUrl": "https://github.com/LeSplint/coachpocket-releases/releases/download/v1.1.2/coachpocket-v2.apk",
+  "changelog": "- Correctif téléchargement mise à jour (gestionnaire système Android)\n- Correctif espacement page Accueil"
 }
