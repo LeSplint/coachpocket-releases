@@ -1,5 +1,5 @@
 {
-  "version": "1.0.3",
-  "apkUrl": "https://github.com/LeSplint/coachpocket-releases/releases/download/v1.0.3/coachpocket-v2.apk",
-  "changelog": "Amélioration de l'interface de création de séance."
+  "version": "1.0.4",
+  "apkUrl": "https://github.com/LeSplint/coachpocket-releases/releases/download/v1.0.4/coachpocket-v2.apk",
+  "changelog": "- Correction du refus définitif de permission notification (état permanently_denied)\n- Bouton Ouvrir Paramètres Android quand les notifs sont bloquées\n- Amélioration de la détection isNativePlatform"
 }
