@@ -1,5 +1,5 @@
 {
-  "version": "1.0.2",
-  "apkUrl": "https://github.com/LeSplint/coachpocket-releases/releases/download/v1.0.2/coachpocket-v2.apk",
-  "changelog": "- Correction du téléchargement de la mise à jour sur Android (le fichier s'enregistre maintenant en .apk et non en .zip)"
+  "version": "1.0.3",
+  "apkUrl": "https://github.com/LeSplint/coachpocket-releases/releases/download/v1.0.3/coachpocket-v2.apk",
+  "changelog": "Amélioration de l'interface de création de séance."
 }
