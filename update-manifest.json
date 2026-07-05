@@ -1,5 +1,5 @@
 {
-  "version": "1.2.0",
-  "apkUrl": "https://github.com/LeSplint/coachpocket-releases/releases/download/v1.2.0/coachpocket-v2.apk",
-  "changelog": "- Minuterie échauffement/étirements avec coach vocal\n- Coach vocal pendant la séance (muet/son)\n- Remplacement et suppression d'exercice en cours de séance\n- Notes de séance\n- Détection automatique de records personnels (PR)\n- Résumé de séance complet après le feedback\n- Timer AMRAP/EMOM\n- Badges et distribution musculaire dans les Stats\n- Records personnels affichés dans les Stats\n- Repas récents en accès rapide dans Nutrition\n- Avatar emoji dans le profil et la barre de navigation"
+  "version": "1.3.0",
+  "apkUrl": "https://github.com/LeSplint/coachpocket-releases/releases/download/v1.2.0/coachpocket-v2-1.3.0.apk",
+  "changelog": "- Ajout des visuels de tous les exercices\n- Débogage via une nouvelle iA\n- Programme multiples disponibles"
 }
